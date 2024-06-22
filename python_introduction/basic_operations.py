@@ -1,6 +1,5 @@
 #!bin/bash
-number1 = 10
-number2 =  5
+number1 = 10 number2 =  5
 print(10+5)
 print(10-5)
 print(10*5)
