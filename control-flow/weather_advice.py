@@ -1,4 +1,4 @@
-#!bin/bash
+#! bin/bash
 weather = input("what's the weather like today? (sunny/rainy/cold):")
 if weather == "sunny" :recommendation = "Wear a t-shirt and sunglasses."
 elif weather == "rainy" :recommendation = "Don't forget your umbrella and a raincoat."
